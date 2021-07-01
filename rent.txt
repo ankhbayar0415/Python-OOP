@@ -1,0 +1,7 @@
+=================================
+ 1. Rent a mountain bike
+ 2. Rent an electric bike
+ 3. Rent a city bike
+ 4. My rents
+ 5. Quit
+=================================
